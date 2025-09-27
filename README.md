@@ -1,7 +1,7 @@
 
-## 📊 SQL Data Analysis Practice
+## 📊 SQL Data Analysis 
 
-This repository is a complete guide to MySQL fundamentals for data analysis!
+This repository is a  guide to MySQL fundamentals for data analysis!
 
 * **`setup.sql`** defines the tables and populates them with initial sales data. 
 * **`basic_analytics.sql`** demonstrates core filtering, sorting, and summarization using `SELECT`, `WHERE`, `GROUP BY`, and aggregate functions like `SUM/AVG`.
